@@ -41,19 +41,19 @@ Congratulations! You now have KSU-next with susfs!
 Open the app and go to the "superuser" tab at the bottom, select the app you would like to give root to, then touch the switch. That's all!
 
 # KSU Modules
-First module to download should be the susfs4ksu module, found [here](https://github.com/sidex15/susfs4ksu-module/releases/tag/v1.5.2%2B_R19). <br/>
+First module to download should be the susfs4ksu module, found [here](https://github.com/sidex15/susfs4ksu-module/releases/). <br/>
 To install modules, go to the "Modules" tab at the bottom and touch "+ Install", then find the module and install it. <br/>
 Other main modules I would recommend to download to bypass all the integrity stuff to use banking apps are as follows: <br/>
-[Play Integrity Fix by KOW](https://github.com/KOWX712/PlayIntegrityFix/releases/tag/v3.3-inject-vending) <br/>
-[TrickyStore](https://github.com/5ec1cff/TrickyStore/releases/tag/1.3.0) <br/>
-[Tricky-Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/tag/v4.0)
+[Play Integrity Fix by KOW](https://github.com/KOWX712/PlayIntegrityFix/releases/) <br/>
+[TrickyStore](https://github.com/5ec1cff/TrickyStore/releases/) <br/>
+[Tricky-Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/)
 
 # Issues
 If you have any issues you can submit an issue, or message on this [telegram group](https://t.me/Wild_Kernels). If you would like to be a tester for Samsung specific kernels, send a message in the group and I can definitely add your Samsung kernel if available.
 
 # Updating KSU Patch
 If theres a new version of the KSU app, there will also be new kernel patches to go along with it to apply the update. For example, right now it's on version 1.0.8, which means the app is 1.0.8 and the patches in the kernel are 1.0.8. Lets say there's a 1.0.9 update. You can update the app, but then to have the latest features in the kernel, you need to update the kernel patch to 1.0.9 as well. <br/>
-To do that, download FatalCoder254 [Kernel Flasher](https://github.com/fatalcoder524/KernelFlasher/releases/tag/v1.5.0) and give it root access in KSU App. <br/>
+To do that, download FatalCoder254 [Kernel Flasher](https://github.com/fatalcoder524/KernelFlasher/releases/) and give it root access in KSU App. <br/>
 Download the Anykernel3.zip from releases. <br/>
 Open the app, select boot slot, select flash, then flash AK3 zip, then select the zip file, then reboot.
 
